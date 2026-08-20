@@ -1,6 +1,6 @@
 # Hi there, I'm Zachary 👋
 
-💻 **Front-End Software Engineer** | 🌎 Based in Central Time (UTC-6)  
+💻 **Front-End Software Engineer** | 🌎 Based in Pacific Standard Time (PST) UTC-8 
 Passionate about building accessible, responsive, and user-focused digital experiences. I enjoy modern frameworks, interactive UI/UX, and solving real-world problems with clean code.
 
 ---
