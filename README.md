@@ -1,6 +1,6 @@
 # Hi there, I'm Zachary 👋
 
-💻 **Front-End Software Engineer** | 🌎 Based in Pacific Standard Time (PST) UTC-8 
+💻 **Front-End Software Engineer** | 🌎 Based in Pacific Daylight Time (PDT) UTC/GMT-7
 Passionate about building accessible, responsive, and user-focused digital experiences. I enjoy modern frameworks, interactive UI/UX, and solving real-world problems with clean code.
 
 ---
@@ -13,6 +13,10 @@ Passionate about building accessible, responsive, and user-focused digital exper
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft365&logoColor=fff&style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=fff&style=for-the-badge)
@@ -25,52 +29,21 @@ Passionate about building accessible, responsive, and user-focused digital exper
 ## 💼 Experience
 
 ### SpokenAAC (2021 – Present)
-- Front-end development for clients including **Mack Trucks, AMA, Spectrum, Tate & Lyle, PGT, MuckRack, Dexter/Dexko, and OX**.  
-- Built responsive, WCAG-compliant websites using **Angular, React, Vue**.  
-- Integrated **Drupal, WordPress, HubSpot** with PHP/JavaScript.  
-- Enhanced mobile apps with **Ionic + Angular + TypeScript**.  
+- Front-end development for clients including **Mack Trucks, AMA, Spectrum, Tate & Lyle, PGT, MuckRack, Dexter/Dexko, OX, and NBOME**.
+- Built responsive, WCAG-compliant websites using **Angular, React, Vue**.
+- Integrated **Drupal, WordPress, HubSpot** with PHP/JavaScript.
+- Enhanced mobile apps with **Ionic + Angular + TypeScript**.
+- Delivered enterprise front-end work in Microsoft-centered environments (**.NET, SQL Server, Microsoft 365, GitHub Copilot**) on the Dexter and NBOME projects.
 - Collaborated in **Agile/Scrum** workflows using Jira & Asana, and conducted QA/code reviews.
 
-### Fanelli Boys/CPR (2019 – 2021)  
+### Fanelli Boys/CPR (2019 – 2021)
 - IT Specialist: managed business hardware/software, device repair, OS troubleshooting (Mac, Windows, Linux), and system support.
 
 ---
 
 ## 🌐 Portfolio Websites
 
-- **[SpokenAAC](https://spokenaac.com/)** – Mobile + web app for AAC users. Maintained and expanded app using **Ionic, Hugo, Angular**; improved UX, SEO, accessibility, and subscriptions.  
-- **[Dexter](https://dexterindex.com/)** – Manufacturer site reskin & expansion. Used **.NET, C#, SQL, Azure, Znode, jQuery**; updated site to **WCAG 2.1 Level AA** compliance.  
-- **[SRS Acquiom Inc.](https://www.srsacquiom.com/)** – Sole front-end developer for new site. Built with **Craft CMS, TailwindCSS, Laravel Mix (PHP)**; added interactive elements and CMS integration.  
-- **[Tate & Lyle PLC](https://wf.tateandlyle.com/claria-starch-euro)** – Developed landing pages/emails with **HubSpot & Webflow**; now consult as senior developer on campaigns.  
-- **[OX The Office of Experience](https://officeofexperience.com/)** – Lead developer for agency site using **Vue, TailwindCSS, WordPress (headless)**; built complex interactivity and animations.  
-- **[PGT](https://www.pgtwindows.com/)** – Sole front-end developer. Reskinned WordPress site, fixed plugin issues, updated legacy code; delivered modernized, refreshed site.
-
----
-
-## 🎓 Education
-**Washington State Community College**  
-Associate of General Science, Applied Science, and Health Science
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZCroninDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZCroninDev&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZCroninDev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect with Me
-- 📧 Email: zcronin1@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/zcronin)
-- 🖥️ [GitHub](https://github.com/ZCroninDev)
-
----
-
-⭐️ From [Zachary Cronin](https://github.com/ZCroninDev)
-
+- **[SpokenAAC](https://spokenaac.com/)** – Mobile + web app for AAC users. Maintained and expanded app using **Ionic, Hugo, Angular**; improved UX, SEO, accessibility, and subscriptions.
+- **[Tate & Lyle PLC](https://wf.tateandlyle.com/claria-starch-euro)** (2021 – 2023) – Developed landing pages and email campaigns with **HubSpot & Webflow** as senior developer on the account.
+- **[OX The Office of Experience](https://officeofexperience.com/)** (Jun 2021 – Jan 2022) – Lead developer for agency site using **Vue, TailwindCSS, WordPress (headless)**; built complex interactivity and animations.
+- **[PGT](https://www.pgtwindows.com/)** (Jan 2022 – Apr 2022) – Sole front-end developer. Reskinned WordPress site, fixed plugin issues, updated legacy code; delivered modernized,
